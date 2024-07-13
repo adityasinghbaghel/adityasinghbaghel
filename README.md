@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adityasinghbaghel(adi)
-- 👀 I’m interested in Ruby, JS, databases, git, React.js, styling, UI/UX
+- 👀 I’m interested in Ruby on Rails, React.js, JS, Databases, Git, Scalablity, Clean Code, UI/UX
 - 🌱 I’m currently learning Ruby
 - 📫 How to reach me https://twitter.com/Aditya55349118
 
