@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adityasinghbaghel(adi)
-- 👀 I’m interested in Ruby on Rails, React.js, JS, Databases, Git, Scalablity, Clean Code, UI/UX
-- 🌱 I’m currently learning Ruby
+- 👀 I’m interested in Python, ML/AI, Django, Fast API, Ruby on Rails, React.js, JS, Databases, Git, Scalablity, Clean Code, UI/UX
+- 🌱 I’m currently learning Python
 - 📫 How to reach me https://twitter.com/Aditya55349118
 
 <!---
